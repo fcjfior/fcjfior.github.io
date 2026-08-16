@@ -51,7 +51,7 @@ export default function App() {
           <img className="avatar" src="img/avatar-transparent.png" alt="avatar" draggable='false'/>
           <p>Contact: fcjfior@gmail.com</p>
           <p className='comment'>EN ◎ | CN ◎ | JP ○ </p>
-          <p className='comment'>{"(Currently not considering individual requests)"}</p>
+          {/* <p className='comment'>{"(Currently not considering individual requests)"}</p> */}
 
         </section>
 
