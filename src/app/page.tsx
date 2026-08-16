@@ -71,7 +71,7 @@ export default function App() {
         </section>
 
 
-        <section id="work">
+        {/* <section id="work">
           <h2 className="sr-only" aria-label="Work">Work</h2>
           {Object.entries(work).map(([year, items], index) => (
           <div key={index}>
@@ -85,7 +85,7 @@ export default function App() {
             </ul>
           </div>
           ))}
-        </section>
+        </section> */}
 
       </main>
       
