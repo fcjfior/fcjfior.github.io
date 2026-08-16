@@ -4,10 +4,10 @@ import type { Metadata } from 'next'
 
 export const metadata: Metadata = {
   title: 'fcjfior',
-  description: 'fcjfior - artist homepage',
-  keywords: ['fcjfior', 'digital art', 'illustration', 'portfolio', 'artist'],
-  authors: [{ name: 'fcjfior', url: 'https://www.fcjfior.xyz' }],
-  creator: 'Your Name',
+  description: 'fcjfior - illustrator homepage',
+  keywords: ['fcjfior', 'digital art', 'illustration', 'portfolio', 'artist', 'illustrator'],
+  authors: [{ name: 'fcjfior', url: 'https://fcjfior.github.io/' }],
+  creator: 'fcjfior',
   robots: 'index, follow',
 }
 
